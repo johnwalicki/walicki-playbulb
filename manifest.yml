@@ -1,0 +1,13 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: walicki-playbulb
+  host: walicki-playbulb
+  disk_quota: 1024M
+  services:
+  - Tone Analyzer-fz
+  - Weather Company Data-ow
+  - walicki-playbulb-cloudantNoSQLDB
+  - walicki-playbulb-iotf-service
