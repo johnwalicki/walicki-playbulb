@@ -19,6 +19,7 @@
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
+        "node-red-node-base64":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x"
     },
     "scripts": {
