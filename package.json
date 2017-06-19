@@ -11,7 +11,6 @@
         "node-red": "0.x",
         "node-red-bluemix-nodes":"1.x",
         "node-red-dashboard":"2.x",
-        "node-red-contrib-web-worldmap":"1.x",
         "node-red-node-watson":"0.x",
         "node-red-node-openwhisk":"0.x",
         "node-red-node-cf-cloudant":"0.x",
@@ -19,7 +18,10 @@
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
+        "node-red-contrib-web-worldmap":"1.x",
+        "node-red-contrib-play-audio":"1.x",
         "node-red-node-base64":"0.x",
+        "node-red-node-weather-underground":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x"
     },
     "scripts": {
