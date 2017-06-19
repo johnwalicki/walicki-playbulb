@@ -8,6 +8,5 @@ applications:
   disk_quota: 1024M
   services:
   - Tone Analyzer-fz
-  - Weather Company Data-ow
   - walicki-playbulb-cloudantNoSQLDB
   - walicki-playbulb-iotf-service
