@@ -8,7 +8,7 @@
         "cfenv":"~1.0.0",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "0.17.x",
+        "node-red": "0.x",
         "node-red-bluemix-nodes":"1.x",
         "node-red-dashboard":"2.x",
         "node-red-node-watson":"0.x",
@@ -22,12 +22,13 @@
         "node-red-contrib-play-audio":"1.x",
         "node-red-node-base64":"0.x",
         "node-red-node-weather-underground":"0.x",
-        "node-red-contrib-bluemix-hdfs":"0.x"
+        "node-red-contrib-bluemix-hdfs":"0.x",
+        "node-red-node-twitter":"0.x"
     },
     "scripts": {
         "start": "node --max-old-space-size=512 node_modules/node-red/red.js --settings ./bluemix-settings.js -v"
     },
     "engines": {
-        "node": "4.x"
+        "node": "8.x"
     }
 }
