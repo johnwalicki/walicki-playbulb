@@ -19,11 +19,13 @@
         "node-red-contrib-iot-virtual-device":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-web-worldmap":"1.x",
-        "node-red-contrib-play-audio":"1.x",
+        "node-red-contrib-play-audio":"2.x",
         "node-red-node-base64":"0.x",
         "node-red-node-weather-underground":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-node-twitter":"0.x"
+        "node-red-node-twitter":"0.x",
+        "node-red-contrib-browser-utils":"0.x",
+        "node-red-contrib-flightaware":"0.x"
     },
     "scripts": {
         "start": "node --max-old-space-size=512 node_modules/node-red/red.js --settings ./bluemix-settings.js -v"
