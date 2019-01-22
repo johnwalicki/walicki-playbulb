@@ -7,6 +7,6 @@ applications:
   host: walicki-playbulb
   disk_quota: 1024M
   services:
-  - Tone Analyzer-fz
+  - Tone Analyzer-fk
   - walicki-playbulb-cloudantNoSQLDB
   - walicki-playbulb-iotf-service
