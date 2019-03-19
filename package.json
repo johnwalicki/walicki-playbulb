@@ -9,7 +9,6 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "0.x",
-        "watson-developer-cloud":"3.18.1",
 	"node-red-bluemix-nodes":"1.x",
         "node-red-dashboard":"2.x",
         "node-red-node-watson":"0.x",
