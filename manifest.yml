@@ -10,3 +10,4 @@ applications:
   - Tone Analyzer-fk
   - walicki-playbulb-cloudantNoSQLDB
   - walicki-playbulb-iotf-service
+  - dashDB for Analytics-yo
