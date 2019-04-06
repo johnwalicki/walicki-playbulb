@@ -25,6 +25,7 @@
         "node-red-contrib-browser-utils":"0.x",
         "node-red-contrib-flightaware":"0.x",
         "node-red-contrib-orion":"1.x",
+	"node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-lifx-api":"1.x"
     },
     "scripts": {
