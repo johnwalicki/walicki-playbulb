@@ -20,7 +20,6 @@
         "node-red-contrib-web-worldmap":"1.x",
         "node-red-contrib-play-audio":"2.x",
         "node-red-node-base64":"0.x",
-        "node-red-node-weather-underground":"0.x",
         "node-red-node-twitter":"1.x",
         "node-red-contrib-browser-utils":"0.x",
         "node-red-contrib-flightaware":"0.x",
