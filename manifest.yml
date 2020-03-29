@@ -8,6 +8,7 @@ applications:
   disk_quota: 1024M
   services:
   - Tone Analyzer-fk
+  - Conversation-xi
   - walicki-playbulb-cloudantNoSQLDB
   - walicki-playbulb-iotf-service
   - Speech to Text-gp
