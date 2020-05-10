@@ -13,7 +13,7 @@
         "node-red-dashboard":"2.x",
         "node-red-node-openwhisk":"0.x",
 	"node-red-node-sentiment":"0.x",
-        "node-red-node-watson":"0.x",
+        "node-red-node-watson":"0.7.5",
         "node-red-node-cf-cloudant":"0.x",
         "node-red-contrib-scx-ibmiotapp":"0.x",
 	"node-red-contrib-ibm-watson-iot":"0.x",
