@@ -14,6 +14,7 @@
         "node-red-node-openwhisk":"0.x",
 	"node-red-node-sentiment":"0.x",
         "node-red-node-watson":"johnwalicki/node-red-node-watson",
+	"node-red-nodes-cf-sqldb-dashdb":"0.2.x",
         "node-red-node-cf-cloudant":"0.x",
         "node-red-contrib-scx-ibmiotapp":"0.x",
 	"node-red-contrib-ibm-watson-iot":"0.x",
