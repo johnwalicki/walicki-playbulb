@@ -8,7 +8,7 @@
         "cfenv": "^1.2.2",
         "express": "4.x",
         "http-shutdown": "1.2.1",
-        "node-red": "1.x",
+        "node-red": "1.2.x",
 	"node-red-bluemix-nodes":"1.x",
         "node-red-dashboard":"2.x",
         "node-red-node-openwhisk":"0.x",
@@ -27,14 +27,15 @@
         "node-red-node-twitter":"1.x",
         "node-red-contrib-browser-utils":"0.x",
         "node-red-contrib-flightaware":"0.x",
-        "node-red-contrib-orion":"2.x",
+        "node-red-contrib-orion":"4.x",
 	"node-red-contrib-particle":"1.x",
-        "node-red-contrib-lifx-api":"1.x"
+        "node-red-contrib-lifx-api":"1.x",Update package.json
+	"node-red-node-ui-webcam":"0.x"
     },
     "scripts": {
         "start": "node --max-old-space-size=256 node_modules/node-red/red.js --settings ./bluemix-settings.js -v"
     },
     "engines": {
-        "node": "10.x"
+        "node": "12.x"
     }
 }
