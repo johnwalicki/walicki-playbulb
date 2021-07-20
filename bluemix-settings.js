@@ -28,7 +28,10 @@ var settings = module.exports = {
     mqttReconnectTime: 15000,
     serialReconnectTime: 15000,
     debugMaxLength: 1000,
-
+		
+		// Add a `nrlint` entry pointing to your nrlint config file
+		nrlint: require("./.nrlintrc.js"),
+		
     // Add the bluemix-specific nodes in
     nodesDir: path.join(__dirname,"nodes"),
 

@@ -2,13 +2,13 @@
     "name"         : "iot-bluemix",
     "version"      : "0.5.03",
     "dependencies": {
-      "@cloudant/cloudant": "^4.2.2",
+      "@cloudant/cloudant": "^4.4.0",
       "bcrypt": "^3.0.7",
       "body-parser": "1.x",
       "cfenv": "^1.2.2",
       "express": "4.x",
       "http-shutdown": "1.2.2",
-      "node-red": "next",
+      "node-red": "2.x",
       "node-red-bluemix-nodes":"1.x",
       "node-red-dashboard":"2.x",
       "node-red-node-openwhisk":"0.x",
@@ -31,7 +31,8 @@
       "node-red-contrib-particle":"1.x",
       "node-red-contrib-lifx-api":"1.x",
       "node-red-node-ui-webcam":"0.x",
-      "node-red-node-ui-microphone":"0.x"
+      "node-red-node-ui-microphone":"0.x",
+      "nrlint":"1.x"
     },
     "scripts": {
         "start": "node --max-old-space-size=256 node_modules/node-red/red.js --settings ./bluemix-settings.js -v"

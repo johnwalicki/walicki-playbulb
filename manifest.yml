@@ -3,7 +3,7 @@ applications:
   memory: 768M
   instances: 1
   buildpacks:
-  - https://github.com/cloudfoundry/nodejs-buildpack
+    - https://github.com/cloudfoundry/nodejs-buildpack.git#v1.7.46
   domain: mybluemix.net
   name: walicki-playbulb
   host: walicki-playbulb
